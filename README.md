@@ -17,7 +17,14 @@
 This repository contains the design for the Beaming Keyboard. Files for manufacturing the keyboard for personal use is provided.
 
 
+## Specifications
+1. Case will be top mounted, manufactured in aluminium
+2. Sandblasted brass weight
+3. Typing angle at 7 degrees
+4. Colours - Black/White/Silver
+5. Form Factor: 65%
 
+Designed in Hong Kong
 
 ### Built With
 
