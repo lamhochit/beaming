@@ -12,7 +12,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![beaming]](images/beaming.png)
 
 This repository contains the design for the Beaming Keyboard. Files for manufacturing the keyboard for personal use is provided.
 
