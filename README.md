@@ -25,6 +25,7 @@ This repository contains the design for the Beaming Keyboard. Files for manufact
 3. Typing angle at 7 degrees
 4. Colours - Black/White/Silver
 5. Form Factor: 65%
+6. Plate to PCB distance 3.5mm (using m2x3.5 spacers and m2x3 t10 fixtures)
 
 Designed in Hong Kong
 
