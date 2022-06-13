@@ -38,8 +38,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ## Roadmap
 
 - [x] Designing the main keyboard
-- [ ] Designing the PCB
-- [ ] Designing the logo
+- [x] Designing the PCB
+- [x] Designing the logo
 - [ ] Prototype the keyboard
 - [ ] Manufacture the keyboard
 - [ ] Group Buy on Geekhack
