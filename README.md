@@ -14,7 +14,7 @@
 
 ![My Image](images/beaming.PNG)
 
-![My Image2](pcb/Board Bottom.png)
+![My Image2](pcb/Board_Bottom.png)
 
 This repository contains the design for the Beaming Keyboard. Files for manufacturing the keyboard for personal use is provided.
 
