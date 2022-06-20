@@ -12,7 +12,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![My Image](images/beaming.PNG)
+![My Image3](images/top.PNG)
+![My Image4](images/back.PNG)
+![My Image5](images/side.PNG)
 
 ![My Image2](pcb/Board_Bottom.png)
 
