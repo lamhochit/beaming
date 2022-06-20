@@ -45,6 +45,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - [x] Designing the main keyboard
 - [x] Designing the PCB
 - [x] Designing the logo
+- [x] Mounts and holes
 - [ ] Prototype the keyboard
 - [ ] Manufacture the keyboard
 - [ ] Group Buy on Geekhack
